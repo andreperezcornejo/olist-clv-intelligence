@@ -1,0 +1,16 @@
+# Lifetime Value Analysis
+lifetimes
+
+# Dashboard & Visualization
+streamlit
+plotly
+xlsxwriter
+
+# Backend & API
+fastapi
+uvicorn
+
+# Data Manipulation & Serialization
+pandas
+numpy
+dill
