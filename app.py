@@ -43,7 +43,8 @@ if 'segmento' not in st.session_state:
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv('olist_rfm_summary.csv')
+    # MODIFICACIÓN: Se añade la ruta de la carpeta data/
+    df = pd.read_csv('data/olist_rfm_summary.csv')
     
     if 'email' not in df.columns:
         df['email'] = df['customer_id'].str[:8] + "@olist-customer.br"
