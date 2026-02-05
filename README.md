@@ -5,6 +5,10 @@ This repository contains a high-performance Strategic Dashboard designed for e-c
 
 The core objective of this tool is to transform raw transactional data into actionable business intelligence, allowing stakeholders to optimize resource allocation and regional logistics.
 
+## Project Link
+Access the final version of the dashboard here: 
+[https://olist-strategic-intelligence.streamlit.app/](https://olist-strategic-intelligence.streamlit.app/)
+
 ## Core Value Proposition
 This tool solves the critical challenge of customer uncertainty in e-commerce. By distinguishing between "active" and "at-risk" customers through BG/NBD models, the business can move from reactive discounting to proactive asset management, directly impacting the bottom line (EBITDA).
 
